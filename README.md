@@ -1,4 +1,3 @@
-Here's a detailed README template for your Spring-Student Java repository. You may want to customize it further as needed.
 
 ---
 
