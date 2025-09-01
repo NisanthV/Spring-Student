@@ -228,9 +228,10 @@ List<StudentModel> findByGenderAndTechnology(String gender, String technology);
 
 <details>
 <summary>🗂️ <strong>application.properties</strong></summary>
+
 **Application**
   
-  ```
+```
 spring.application.name=student-management-api
 ```
 **Database Configuration**
